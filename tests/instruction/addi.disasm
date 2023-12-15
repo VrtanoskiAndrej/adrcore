@@ -1,0 +1,8 @@
+
+instruction/addi.elf:     file format elf64-littleriscv
+
+
+Disassembly of section .text:
+
+00000000000100b0 <__DATA_BEGIN__-0x1004>:
+   100b0:	00400113          	li	sp,4
